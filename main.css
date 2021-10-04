@@ -1,0 +1,4 @@
+.each_batsman_scroll{
+    height: 500px;
+    overflow: scroll;
+}
