@@ -43,20 +43,5 @@ External tools and libraries can be used
 
 
 
-
-Deliverables
-............
-1. System (website is optional but contain bonus)
-2. Report (Follow software engineering priciples. Starts from requirement then design, then develop, testing and finally integration and deployment)
-3. Demo (can be a video or slides containing most important parts of the project, this may contain non-technical aspects too.)
-Remember that the proportion of content on various parts in report and demo determine the focus and effort of the teams.
-
-Evaluation
-..............
-1. Demo 10  
-2. Report 5
-3. Interview 5 (individual)
-
-Scores will be collected from all other teams, external judge, and instructor on the demo part and then a weighted average will be calculated with weights as: instructor 0.5, other teams 0.3 external 0.2
   
 
